@@ -9,6 +9,7 @@
 #include "test-ensure-array.cpp"
 #include "test-files.cpp"
 #include "test-functions.cpp"
+#include "test-implicit-false.cpp"
 #include "test-renderer.cpp"
 #include "test-units.cpp"
 

@@ -77,6 +77,7 @@ struct RenderConfig {
   bool throw_at_missing_includes {true};
   bool html_autoescape {false};
   bool ensure_array_for_loops {false};
+  bool implicit_false_for_missing_vars {false};
 };
 
 } // namespace inja
